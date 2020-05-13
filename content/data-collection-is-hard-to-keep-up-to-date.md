@@ -9,4 +9,3 @@ It’s often hard to write an automatic process to download a dataset:
 * Many datasets are kept behind email or permissions-walls
 
 These barriers mean collecting and updating datasets published by organisations including Ordnance Survey, Environment Agency, Historic England and many local authorities is a manual process.
-

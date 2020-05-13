@@ -7,4 +7,3 @@ Often there is no direct download for the data, but rather an email contact, who
 Many users fear data you have to request cannot then be presented in services, even when it’s licensed as open data:
 
 > why would the Ordnance Survey require my email to download their open data if not to chase me if I make it public.
-
